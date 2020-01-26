@@ -1,0 +1,15 @@
+.promo__container {
+    margin:10px;
+    max-width: 300px;
+    width:300px;
+    border: 0.5px solid #999;
+    border-radius: 5px;
+    .promo__img__container {
+        max-width: 280px;
+        padding:5px;
+        img {
+            width: 100%;
+
+        }
+    }
+}
